@@ -1,5 +1,7 @@
 <template>
-	<h1>Stock Trader</h1>
+    <div id="header">
+
+    </div>
 </template>
 
 <script>
@@ -8,7 +10,6 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
-
